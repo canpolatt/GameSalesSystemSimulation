@@ -1,4 +1,4 @@
-**Oyun Yönetim İndirim Sistemi**
+**Oyun Yönetim Kampanya Sistemi**
 - Oyuncuların sisteme kayıt olabileceği, bilgilerini güncelleyebileceği, kayıtlarını silebileceği bir ortamı simule edildi. Müşteri bilgilerinin doğruluğu MERNIS aracılığı
 ile kontrol edildi. 
 - Oyun satışı yapılabilecek satış ortamı simule edildi.
